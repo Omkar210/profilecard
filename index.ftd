@@ -17,7 +17,7 @@ overflow: hidden
 -- ftd.column:
 align-content: center
 
--- ftd.image: $assets.files.images.bg-pattern-top.svg
+-- ftd.image: $assets.files.images.monkey-d-luffy.png
 z-index: 1
 margin-left.rem: -70
 margin-top.px: -500
@@ -41,7 +41,7 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Omkar Gangamwar
 avatar: $assets.files.images.image-victor.jpg
 city: London
 github-url: https://www.github.com/
