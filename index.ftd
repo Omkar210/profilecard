@@ -9,7 +9,7 @@ width: fill-container
 height: fill-container
 
 -- ftd.container:
-background.solid: #46e89f
+background.solid: #73deae
 width: fill-container
 height: fill-container
 overflow: hidden
@@ -43,7 +43,7 @@ border-radius.px: 10
 
 -- profile.wrapper: Omkar Gangamwar
 avatar: $assets.files.images.image-victor.jpg
-city: London
+city: Wani
 github-url: https://www.github.com/
 linkedin-url: https://www.linkedin.com/
 instagram-url: https://www.instagram.com/
