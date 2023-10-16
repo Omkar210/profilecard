@@ -106,9 +106,9 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: Omkar Gangamwar
 avatar: $assets.files.images.image-victor.jpg
-city: London
+city: Wani
 github-url: https://www.github.com/
 linkedin-url: https://www.linkedin.com/
 instagram-url: https://www.instagram.com/
